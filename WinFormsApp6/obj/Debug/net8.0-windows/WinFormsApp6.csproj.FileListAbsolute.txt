@@ -1,0 +1,16 @@
+C:\Users\teren\Desktop\tyron\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.Form1.resources
+C:\Users\teren\Desktop\tyron\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\teren\Desktop\tyron\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teren\Desktop\tyron\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\teren\Desktop\tyron\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\teren\Desktop\tyron\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\teren\Desktop\tyron\WinFormsApp6\bin\Debug\net8.0-windows\WinFormsApp6.exe
+C:\Users\teren\Desktop\tyron\WinFormsApp6\bin\Debug\net8.0-windows\WinFormsApp6.deps.json
+C:\Users\teren\Desktop\tyron\WinFormsApp6\bin\Debug\net8.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\teren\Desktop\tyron\WinFormsApp6\bin\Debug\net8.0-windows\WinFormsApp6.dll
+C:\Users\teren\Desktop\tyron\WinFormsApp6\bin\Debug\net8.0-windows\WinFormsApp6.pdb
+C:\Users\teren\Desktop\tyron\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.dll
+C:\Users\teren\Desktop\tyron\WinFormsApp6\obj\Debug\net8.0-windows\refint\WinFormsApp6.dll
+C:\Users\teren\Desktop\tyron\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.pdb
+C:\Users\teren\Desktop\tyron\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\teren\Desktop\tyron\WinFormsApp6\obj\Debug\net8.0-windows\ref\WinFormsApp6.dll
